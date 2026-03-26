@@ -1,0 +1,18 @@
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Logs
+*.log
+
+# Archivos temporales
+*~
+*.tmp
